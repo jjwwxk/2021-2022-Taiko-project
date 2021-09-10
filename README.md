@@ -3,8 +3,8 @@ press either the outer blue drum or the inner red drum when the blue and red not
 
 The notes are sinced to the beat
 
-TAIKO
+**TAIKO**
 
-BEAT
+**BEAT**
 
-DRUM
+**DRUM**
